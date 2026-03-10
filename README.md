@@ -180,3 +180,5 @@ En conclusión, el patrón Abstract Factory es una herramienta muy útil cuando 
 En la implementación realizada, se aplicó este patrón para manejar tres modalidades: presencial, virtual e híbrida. Cada una cuenta con su propia guía y su propio examen, pero todas siguen la misma estructura base definida por las clases abstractas. Gracias a esto, el programa puede cambiar de modalidad simplemente cambiando la fábrica que se instancia, sin afectar el resto del código.
 Además, al agregar la modalidad híbrida se comprobó que el patrón facilita la extensión del sistema, ya que solo fue necesario crear nuevas clases y una nueva fábrica, sin modificar las clases existentes. Esto demuestra que el patrón cumple con su propósito de hacer el sistema más escalable y organizado.
 En general, esta práctica permitió entender mejor cómo funcionan los patrones creacionales y cómo pueden aplicarse en situaciones reales para mejorar la estructura del código.
+
+[Actividad de evidencia 1_U2 Abstract Factory.zip](https://github.com/user-attachments/files/25873529/Actividad.de.evidencia.1_U2.Abstract.Factory.zip)
